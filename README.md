@@ -1,4 +1,4 @@
 # tindog
-tindog website
+tinder-like website for dogs
 
 - Web Development Bootcamp -
